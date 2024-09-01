@@ -1,0 +1,15 @@
+# Diretório do Visual Studio e Rider
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Build output
+bin/
+obj/

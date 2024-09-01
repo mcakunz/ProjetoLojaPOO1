@@ -29,3 +29,14 @@ D:\Documents\GitHub\Sistemas-De-Informacao\POO1\aspNET\LojinhaLegal\LojinhaLegal
 D:\Documents\GitHub\Sistemas-De-Informacao\POO1\aspNET\LojinhaLegal\LojinhaLegal\obj\Debug\net8.0\LojinhaLegal.pdb
 D:\Documents\GitHub\Sistemas-De-Informacao\POO1\aspNET\LojinhaLegal\LojinhaLegal\obj\Debug\net8.0\LojinhaLegal.genruntimeconfig.cache
 D:\Documents\GitHub\Sistemas-De-Informacao\POO1\aspNET\LojinhaLegal\LojinhaLegal\obj\Debug\net8.0\ref\LojinhaLegal.dll
+C:\Users\Ilan\source\repos\ProjetoLojaPOO1\LojinhaLegal\LojinhaLegal\obj\Debug\net8.0\LojinhaLegal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilan\source\repos\ProjetoLojaPOO1\LojinhaLegal\LojinhaLegal\obj\Debug\net8.0\LojinhaLegal.AssemblyInfoInputs.cache
+C:\Users\Ilan\source\repos\ProjetoLojaPOO1\LojinhaLegal\LojinhaLegal\obj\Debug\net8.0\LojinhaLegal.AssemblyInfo.cs
+C:\Users\Ilan\source\repos\ProjetoLojaPOO1\LojinhaLegal\LojinhaLegal\obj\Debug\net8.0\LojinhaLegal.csproj.CoreCompileInputs.cache
+C:\Users\Ilan\source\repos\ProjetoLojaPOO1\LojinhaLegal\LojinhaLegal\obj\Debug\net8.0\LojinhaLegal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ilan\source\repos\ProjetoLojaPOO1\LojinhaLegal\LojinhaLegal\obj\Debug\net8.0\LojinhaLegal.RazorAssemblyInfo.cache
+C:\Users\Ilan\source\repos\ProjetoLojaPOO1\LojinhaLegal\LojinhaLegal\obj\Debug\net8.0\LojinhaLegal.RazorAssemblyInfo.cs
+C:\Users\Ilan\source\repos\ProjetoLojaPOO1\LojinhaLegal\LojinhaLegal\obj\Debug\net8.0\LojinhaLegal.sourcelink.json
+C:\Users\Ilan\source\repos\ProjetoLojaPOO1\LojinhaLegal\LojinhaLegal\obj\Debug\net8.0\LojinhaLegal.dll
+C:\Users\Ilan\source\repos\ProjetoLojaPOO1\LojinhaLegal\LojinhaLegal\obj\Debug\net8.0\refint\LojinhaLegal.dll
+C:\Users\Ilan\source\repos\ProjetoLojaPOO1\LojinhaLegal\LojinhaLegal\obj\Debug\net8.0\LojinhaLegal.pdb

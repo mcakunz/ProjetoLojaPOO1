@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\GitHub\\Sistemas-De-Informacao\\POO1\\aspNET\\LojinhaLegal\\LojinhaLegal\\LojinhaLegal.csproj": {}
+    "C:\\Users\\Ilan\\source\\repos\\ProjetoLojaPOO1\\LojinhaLegal\\LojinhaLegal\\LojinhaLegal.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\GitHub\\Sistemas-De-Informacao\\POO1\\aspNET\\LojinhaLegal\\LojinhaLegal\\LojinhaLegal.csproj": {
+    "C:\\Users\\Ilan\\source\\repos\\ProjetoLojaPOO1\\LojinhaLegal\\LojinhaLegal\\LojinhaLegal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\GitHub\\Sistemas-De-Informacao\\POO1\\aspNET\\LojinhaLegal\\LojinhaLegal\\LojinhaLegal.csproj",
+        "projectUniqueName": "C:\\Users\\Ilan\\source\\repos\\ProjetoLojaPOO1\\LojinhaLegal\\LojinhaLegal\\LojinhaLegal.csproj",
         "projectName": "LojinhaLegal",
-        "projectPath": "D:\\Documents\\GitHub\\Sistemas-De-Informacao\\POO1\\aspNET\\LojinhaLegal\\LojinhaLegal\\LojinhaLegal.csproj",
-        "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\GitHub\\Sistemas-De-Informacao\\POO1\\aspNET\\LojinhaLegal\\LojinhaLegal\\obj\\",
+        "projectPath": "C:\\Users\\Ilan\\source\\repos\\ProjetoLojaPOO1\\LojinhaLegal\\LojinhaLegal\\LojinhaLegal.csproj",
+        "packagesPath": "C:\\Users\\Ilan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ilan\\source\\repos\\ProjetoLojaPOO1\\LojinhaLegal\\LojinhaLegal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ilan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
