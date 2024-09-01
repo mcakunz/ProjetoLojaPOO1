@@ -1,21 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Documents\\GitHub\\Sistemas-De-Informacao\\POO1\\aspNET\\LojinhaLegal\\",
+  "WorkspaceRootPath": "D:\\Documents\\GitHub\\ProjetoLojaPOO1\\LojinhaLegal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{102735A5-BD7D-46E1-986B-58DE0A200825}|LojinhaLegal\\LojinhaLegal.csproj|d:\\documents\\github\\sistemas-de-informacao\\poo1\\aspnet\\lojinhalegal\\lojinhalegal\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{102735A5-BD7D-46E1-986B-58DE0A200825}|LojinhaLegal\\LojinhaLegal.csproj|d:\\documents\\github\\projetolojapoo1\\lojinhalegal\\lojinhalegal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102735A5-BD7D-46E1-986B-58DE0A200825}|LojinhaLegal\\LojinhaLegal.csproj|solutionrelative:lojinhalegal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102735A5-BD7D-46E1-986B-58DE0A200825}|LojinhaLegal\\LojinhaLegal.csproj|d:\\documents\\github\\projetolojapoo1\\lojinhalegal\\lojinhalegal\\wwwroot\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102735A5-BD7D-46E1-986B-58DE0A200825}|LojinhaLegal\\LojinhaLegal.csproj|solutionrelative:lojinhalegal\\wwwroot\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102735A5-BD7D-46E1-986B-58DE0A200825}|LojinhaLegal\\LojinhaLegal.csproj|d:\\documents\\github\\projetolojapoo1\\lojinhalegal\\lojinhalegal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{102735A5-BD7D-46E1-986B-58DE0A200825}|LojinhaLegal\\LojinhaLegal.csproj|solutionrelative:lojinhalegal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102735A5-BD7D-46E1-986B-58DE0A200825}|LojinhaLegal\\LojinhaLegal.csproj|d:\\documents\\github\\projetolojapoo1\\lojinhalegal\\lojinhalegal\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{102735A5-BD7D-46E1-986B-58DE0A200825}|LojinhaLegal\\LojinhaLegal.csproj|solutionrelative:lojinhalegal\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{102735A5-BD7D-46E1-986B-58DE0A200825}|LojinhaLegal\\LojinhaLegal.csproj|d:\\documents\\github\\sistemas-de-informacao\\poo1\\aspnet\\lojinhalegal\\lojinhalegal\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{102735A5-BD7D-46E1-986B-58DE0A200825}|LojinhaLegal\\LojinhaLegal.csproj|d:\\documents\\github\\projetolojapoo1\\lojinhalegal\\lojinhalegal\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{102735A5-BD7D-46E1-986B-58DE0A200825}|LojinhaLegal\\LojinhaLegal.csproj|solutionrelative:lojinhalegal\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{102735A5-BD7D-46E1-986B-58DE0A200825}|LojinhaLegal\\LojinhaLegal.csproj|d:\\documents\\github\\sistemas-de-informacao\\poo1\\aspnet\\lojinhalegal\\lojinhalegal\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{102735A5-BD7D-46E1-986B-58DE0A200825}|LojinhaLegal\\LojinhaLegal.csproj|d:\\documents\\github\\projetolojapoo1\\lojinhalegal\\lojinhalegal\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{102735A5-BD7D-46E1-986B-58DE0A200825}|LojinhaLegal\\LojinhaLegal.csproj|solutionrelative:lojinhalegal\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{102735A5-BD7D-46E1-986B-58DE0A200825}|LojinhaLegal\\LojinhaLegal.csproj|d:\\documents\\github\\sistemas-de-informacao\\poo1\\aspnet\\lojinhalegal\\lojinhalegal\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{102735A5-BD7D-46E1-986B-58DE0A200825}|LojinhaLegal\\LojinhaLegal.csproj|d:\\documents\\github\\projetolojapoo1\\lojinhalegal\\lojinhalegal\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{102735A5-BD7D-46E1-986B-58DE0A200825}|LojinhaLegal\\LojinhaLegal.csproj|solutionrelative:lojinhalegal\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -26,15 +38,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\ProjetoLojaPOO1\\LojinhaLegal\\LojinhaLegal\\wwwroot\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LojinhaLegal\\wwwroot\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\ProjetoLojaPOO1\\LojinhaLegal\\LojinhaLegal\\wwwroot\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LojinhaLegal\\wwwroot\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T19:45:35.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\ProjetoLojaPOO1\\LojinhaLegal\\LojinhaLegal\\appsettings.json",
+              "RelativeDocumentMoniker": "LojinhaLegal\\appsettings.json",
+              "ToolTip": "D:\\Documents\\GitHub\\ProjetoLojaPOO1\\LojinhaLegal\\LojinhaLegal\\appsettings.json",
+              "RelativeToolTip": "LojinhaLegal\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-01T19:14:08.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\ProjetoLojaPOO1\\LojinhaLegal\\LojinhaLegal\\Program.cs",
+              "RelativeDocumentMoniker": "LojinhaLegal\\Program.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\ProjetoLojaPOO1\\LojinhaLegal\\LojinhaLegal\\Program.cs",
+              "RelativeToolTip": "LojinhaLegal\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T19:12:59.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Sistemas-De-Informacao\\POO1\\aspNET\\LojinhaLegal\\LojinhaLegal\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\ProjetoLojaPOO1\\LojinhaLegal\\LojinhaLegal\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "LojinhaLegal\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Documents\\GitHub\\Sistemas-De-Informacao\\POO1\\aspNET\\LojinhaLegal\\LojinhaLegal\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Documents\\GitHub\\ProjetoLojaPOO1\\LojinhaLegal\\LojinhaLegal\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "LojinhaLegal\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAABAAAAAAAAAAAAAiwDAAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -43,24 +94,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "site.css",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Sistemas-De-Informacao\\POO1\\aspNET\\LojinhaLegal\\LojinhaLegal\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\ProjetoLojaPOO1\\LojinhaLegal\\LojinhaLegal\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "LojinhaLegal\\wwwroot\\css\\site.css",
-              "ToolTip": "D:\\Documents\\GitHub\\Sistemas-De-Informacao\\POO1\\aspNET\\LojinhaLegal\\LojinhaLegal\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Documents\\GitHub\\ProjetoLojaPOO1\\LojinhaLegal\\LojinhaLegal\\wwwroot\\css\\site.css",
               "RelativeToolTip": "LojinhaLegal\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAGcBAAAAAAAAAAAwwHYBAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-08-30T22:27:50.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Sistemas-De-Informacao\\POO1\\aspNET\\LojinhaLegal\\LojinhaLegal\\Pages\\Privacy.cshtml",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\ProjetoLojaPOO1\\LojinhaLegal\\LojinhaLegal\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "LojinhaLegal\\Pages\\Privacy.cshtml",
-              "ToolTip": "D:\\Documents\\GitHub\\Sistemas-De-Informacao\\POO1\\aspNET\\LojinhaLegal\\LojinhaLegal\\Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\Documents\\GitHub\\ProjetoLojaPOO1\\LojinhaLegal\\LojinhaLegal\\Pages\\Privacy.cshtml",
               "RelativeToolTip": "LojinhaLegal\\Pages\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -69,11 +120,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Sistemas-De-Informacao\\POO1\\aspNET\\LojinhaLegal\\LojinhaLegal\\Pages\\Index.cshtml",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\ProjetoLojaPOO1\\LojinhaLegal\\LojinhaLegal\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "LojinhaLegal\\Pages\\Index.cshtml",
-              "ToolTip": "D:\\Documents\\GitHub\\Sistemas-De-Informacao\\POO1\\aspNET\\LojinhaLegal\\LojinhaLegal\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Documents\\GitHub\\ProjetoLojaPOO1\\LojinhaLegal\\LojinhaLegal\\Pages\\Index.cshtml",
               "RelativeToolTip": "LojinhaLegal\\Pages\\Index.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAiwCkAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

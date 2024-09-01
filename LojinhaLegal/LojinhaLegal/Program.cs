@@ -1,16 +1,23 @@
+using Microsoft.EntityFrameworkCore;
+using LojinhaLegal.Models; // Certifique-se de usar o namespace correto
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// Configurar a conexão com o banco de dados MySQL
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+	options.UseMySql(connectionString, new MySqlServerVersion(new Version(8, 0, 21))));
+
+// Adicionar serviços ao contêiner.
 builder.Services.AddRazorPages();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// Configurar o pipeline de requisições HTTP.
 if (!app.Environment.IsDevelopment())
 {
-    app.UseExceptionHandler("/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-    app.UseHsts();
+	app.UseExceptionHandler("/Error");
+	app.UseHsts();
 }
 
 app.UseHttpsRedirection();
